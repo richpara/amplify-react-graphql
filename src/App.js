@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React, Nodejs, AWS, Python
+          Learn React, Nodejs, AWS, Python, Pandas, Numpy
         </a>
       </header>
     </div>
